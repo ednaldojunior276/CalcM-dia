@@ -1,0 +1,23 @@
+
+body{
+    background-color: darkgray;
+}
+#pegar{
+    border: 2px solid black;
+    box-shadow: 1px 1px 2px black;
+    position: absolute;
+    left: 500px;
+    top: 25%;
+    background-color: cornflowerblue;
+    
+}
+hgroup#p{
+    margin: 20px;
+    text-align: center;
+
+
+}
+#txt{
+    width: 200px;
+    height: 50px;
+}
